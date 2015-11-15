@@ -1,3 +1,13 @@
+PLEASE README
+
+Download on the same folder index.html AND action.js, just double click on index.html to test.
+
+I used only standard javascript (no libraries like underscore or similar) to finish this test.
+Time needed, around 40minutes (with coffie & cigarette).
+
+***************************************************************
+
+
 Terms of the Exercise
 
 You can take as long as you like to complete the exercise, but for an indicative timescale we expect a senior engineer can accomplish this in a couple of hours.
